@@ -1,3 +1,2 @@
 # Unity-Test
-Lmao idk what i am doing
-This is an edit :)
+This is me figuring out how to put my Unity projects into GitHub :)
